@@ -54,18 +54,22 @@ _**Data Engineer Junior**_
 
 ## 🛠️ <span style="color:#4682B4">Compétences Techniques</span>
 
-- **Langages de programmation** : Python, SQL, PHP, Bash  
-- **Bases de données** : MySQL, PostgreSQL, MongoDB  
-- **Frameworks et Outils** : Hadoop, Spark, TensorFlow, Git, CI/CD, Docker  
-- **Outils DevOps** : Docker, Git, Proxmox  
+- **Langages de programmation** : Python, SQL, PHP, Bash, C#  
+- **Bases de données** : MySQL, PostgreSQL, MongoDB, Cassandra  
+- **Frameworks et Outils** : Hadoop, Spark, TensorFlow, PyTorch, Scikit-learn, Pandas, NumPy  
+- **Outils de Conteneurisation & Orchestration** : Docker, Kubernetes  
+- **Outils DevOps** : Git, CI/CD, Proxmox, Jenkins  
+- **Cloud & Big Data** : AWS (S3, EC2, Lambda), Google Cloud, Azure, Apache Kafka  
+- **Environnements de Virtualisation** : VmWare, VirtualBox  
 
 ---
 
+
 ## 🎓 <span style="color:#FF4500">Diplômes et Formations</span>
 
-### Mastère 1ère année Datascientist & Data engineer  
+### Mastère Datascientist & Data engineer  
 _Ynov, Nanterre (92)_  
-📅 _2022 - 2023_
+📅 _2022 - 2024_
 
 ### Licence pro PRISM (Programmation Internet et Systèmes Mobiles)  
 _Université Paris-Saclay, Orsay (91)_  
