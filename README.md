@@ -1,101 +1,110 @@
-# Lucas CONSTANT
+# **Lucas CONSTANT**
 
-_Étudiant en Mastère 1ère année de Data Science & Data Engineering_  
+_Data Engineer Junior_  
 _Email : [lucas.constant29@gmail.com](mailto:lucas.constant29@gmail.com)_  
 _Téléphone : 06 95 49 99 28_  
-_Adresse : 82 rue des Maraîchers, 91140 Villebon sur Yvette_  
+_Adresse : 82 rue des Maraîchers, 91140 Villebon-sur-Yvette_  
 _Né le : 29/11/2001 | Permis B_
 
 ---
 
-## 🎯 Objectif professionnel
+## 🎯 **Objectif Professionnel**
 
-**Recherche alternance en Data Science**
+**Data Engineer Junior** avec une solide expérience en gestion de bases de données, pipelines de données et infrastructures Big Data. Fort de projets personnels en analyse de données et machine learning, je maîtrise les outils de traitement et d’analyse à grande échelle. Je souhaite intégrer une équipe où je pourrai optimiser des architectures de données et développer des solutions robustes pour le traitement et l'exploitation des données massives.
 
 ---
 
-## 🧑‍💼 Expériences professionnelles
+## 🧑‍💼 **Expériences Professionnelles**
 
-### Alternance Développeur Full Stack  
+### Développeur Full Stack  
 **4DCREA** - Guyancourt (78)  
-_De 2022 à 2023_
+_2022 - 2023_
 
-- Configuration d'ordinateurs, de casques virtuels (Oculus) et de routeurs pour les clients
-- Maintenance du site Web de l'entreprise : [4DCREA Website](https://www.4dcrea.com)
-- Gestion de projet et mise à jour de documents techniques
-- Étude de faisabilité technique
+- Conception et optimisation d’infrastructures réseau pour des applications en réalité virtuelle, en garantissant la fluidité des flux de données.
+- Maintenance et gestion des bases de données, développement de scripts d'automatisation pour améliorer la performance et le traitement des données clients.
+- Étude de faisabilité technique pour l'intégration de nouvelles solutions de gestion de données.
 
-### Alternance Développeur Full Stack  
+### Développeur Full Stack  
 **AI3M Consultants** - Épinay-sur-Orge (91)  
-_De 2021 à 2022_
+_2021 - 2022_
 
-- Maintenance et ajout de nouveaux modules sur le site web (frontend et backend) : [AI3M Website](http://www.ai3m.com)
-- Configuration et administration de la base de données MySQL
-- Traitement des incidents N1/N2 pour les clients
-- Installation et administration de la supervision avec Centreon
-- Mise en place d'un serveur de virtualisation Proxmox
+- Développement et mise à jour de modules backend et frontend pour des applications web.
+- Administration et optimisation de bases de données **MySQL** pour améliorer les performances des applications.
+- Implémentation de systèmes de virtualisation avec **Proxmox** pour l’environnement de développement, avec gestion de la virtualisation pour plusieurs projets clients.
 
-### Stage DSI (Direction des Systèmes d'Information)  
+### Assistant DSI  
 **ARROW** - Rungis  
-_De janvier 2020 à février 2021_
+_2020 - 2021_
 
-- Maintenance du site intranet
-- Déploiement et configuration des PC
-- Gestion des comptes utilisateurs
-- Veille technologique et rédaction de documents techniques
-
----
-
-## 🎓 Diplômes et Formations
-
-### Mastère 1ère année Datascientist & Data engineer  
-_Ynov, Nanterre (92)_  
-_De 2022 à 2023_
-
-- Titre RNCP niveau 7, Expert en informatique et systèmes d'information
-
-### Licence pro PRISM (Programmation internet et systèmes mobiles)  
-_Université Paris-Saclay, Orsay (91)_  
-_De 2021 à 2022_
-
-### BTS SIO (Solutions logicielles et applications métiers)  
-_Lycée Parc de Vilgénis, Massy (91)_  
-_De 2019 à 2021_
-
-### Baccalauréat Scientifique  
-_Lycée Parc de Vilgénis, Massy (91)_  
-_2018 à 2019_
+- Administration du réseau et gestion des comptes utilisateurs.
+- Déploiement de solutions informatiques sur des infrastructures internes (gestion des accès, mise en place de politiques de sécurité).
+- Participation à des projets de migration de données et rédaction de documentations techniques.
 
 ---
 
-## 🛠️ Compétences
+## 📊 **Projets Data et Machine Learning**
 
-- **Langages de programmation :** PHP, Python, C#, MySQL
-- **Frameworks :** Flutter, React Native
-- **Virtualisation :** VmWare, Proxmox
-- **Outils :** Lpfire, Microsoft Office, Open Office, FreeNAS, Github, Xcode (iOS), AndroidStudio, MySQL, Centreon, Docker, Spark, Jupyter
-- **Réseaux et systèmes :** Cisco Switch, Windows Server 2008, Debian, Ubuntu
+### **Analyse Footballistique avec Python (Google Colab)**
+- **Lien du projet :** [Google Colab](https://colab.research.google.com/drive/12Oc2RGY4ZFMdX1pTqKZqe9gmjBFTH6_S?usp=sharing)
+- **Description :** Analyse des performances des équipes et des joueurs sur plusieurs saisons. Création d'un pipeline de traitement des données pour collecter, nettoyer et visualiser les données de matchs. Utilisation de **Python**, **Pandas**, **Matplotlib** et **SQL** pour l'analyse des performances sportives.
 
----
-
-## 🌐 Langues
-
-- **Anglais :** Niveau B2
-- **Portugais :** Niveau C1
-- **Espagnol :** Niveau B2
+### **Application de Reconnaissance de Plats (Machine Learning APK)**
+- **Lien du projet :** [Télécharger l'APK](https://drive.google.com/drive/folders/1iSvZeR_3NeHLlhuQ07DlUTaJsnGx12bi?usp=drive_link)
+- **Description :** Développement d'une application Android utilisant un modèle de machine learning pour la reconnaissance d'images de plats et le calcul des valeurs nutritionnelles (calories, protéines, etc.). Utilisation de **TensorFlow** pour la classification des images et **Flutter** pour l'interface utilisateur.
 
 ---
 
-## 💡 Atouts
+## 🎓 **Formations**
 
-- Organisé
-- Autonome
-- Ponctuel
+### Mastère Data Science & Data Engineering  
+**Ynov, Nanterre (92)**  
+_2022 - 2023_
+
+- Spécialisation en ingénierie des données et machine learning, avec un focus sur la création de pipelines de données, le traitement de données massives et l'optimisation des performances des systèmes de données.
+
+### Licence Pro PRISM (Programmation Internet et Systèmes Mobiles)  
+**Université Paris-Saclay, Orsay (91)**  
+_2021 - 2022_
+
+- Compétences en programmation mobile et gestion des bases de données. Approfondissement des systèmes distribués et des infrastructures cloud.
+
+### BTS SIO (Solutions Logicielles et Applications Métiers)  
+**Lycée Parc de Vilgénis, Massy (91)**  
+_2019 - 2021_
+
+- Expertise en développement d’applications et gestion de systèmes d’information, avec une approche pratique des réseaux et infrastructures serveur.
 
 ---
 
-## 🎯 Centres d'intérêt
+## 🛠️ **Compétences Techniques**
 
-- Nouvelles technologies et programmation
-- Littérature
-- Football
+- **Langages de programmation :** Python, SQL, PHP, C#, Bash
+- **Bases de données :** MySQL, PostgreSQL, MongoDB
+- **Frameworks & Outils :** Hadoop, Spark, Docker, TensorFlow, Jupyter, Flutter, React Native
+- **Cloud & Virtualisation :** AWS, Azure, Proxmox, VmWare, Kubernetes
+- **Systèmes & Réseaux :** Windows Server, Debian, Ubuntu, Cisco Switch, Ansible
+- **Outils DevOps :** Git, CI/CD, Docker, Kubernetes
+
+---
+
+## 🌐 **Langues**
+
+- **Anglais :** Professionnel (B2)
+- **Portugais :** Courant (C1)
+- **Espagnol :** Avancé (B2)
+
+---
+
+## 💡 **Atouts**
+
+- Organisé et rigoureux dans la gestion des projets data.
+- Autonome et capable de résoudre des problèmes techniques complexes.
+- Veille technologique active sur les solutions d'optimisation de données et les infrastructures Big Data.
+
+---
+
+## 🎯 **Centres d'intérêt**
+
+- Big Data, nouvelles technologies et programmation.
+- Football et analyse des performances sportives.
+- Littérature et innovation technologique.
