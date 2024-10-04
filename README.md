@@ -19,7 +19,7 @@ _**Data Engineer Junior**_
 
 ### 💻 <span style="color:#2E8B57">Développeur Full Stack</span>  
 **4DCREA** - Guyancourt (78)  
-📅 _2022 - 2023_
+📅 _2022 - 2024_
 
 - 🔧 Gestion des infrastructures réseau et des environnements de réalité virtuelle pour les clients.
 - ⚙️ Maintenance du site web de l'entreprise et gestion des outils internes.
