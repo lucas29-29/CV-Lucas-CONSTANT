@@ -1,7 +1,3 @@
-# <span style="color:#1E90FF">CV - Lucas CONSTANT</span>
-
----
-
 ## <span style="color:#000000">Lucas CONSTANT</span>  
 
 _**Data Engineer Junior**_  
