@@ -22,7 +22,7 @@ _**Data Engineer Junior**_
 📅 _2022 - 2024_
 
 - 🔧 Gestion des infrastructures réseau et des environnements de réalité virtuelle pour les clients.
-- ⚙️ Création et Maintenance des site web de l'entreprise et gestion des outils internes : [4DCREA](https://www.4dcrea.com/)   [IRWINO](https://www.irwino.com/)
+- ⚙️ Création et Maintenance des site web de l'entreprise et gestion des outils internes : [4DCREA](https://www.4dcrea.com/)  et  [IRWINO](https://www.irwino.com/)
 -    Création d'un E-commerce : [Lien du E-commerce](https://shop.irwino.com/)  
 
 ### 💻 <span style="color:#2E8B57">Développeur Full Stack</span>  
